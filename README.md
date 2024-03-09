@@ -8,6 +8,3 @@
 ## Sumber
 - [Youtube](https://www.youtube.com/playlist?list=PLc6SEcJkQ6DwUhzOcOKmqysBF2FGvQZ0V)
 - [GitHub](https://github.com/deaaprizal/tutorial-python)
-
-
-
